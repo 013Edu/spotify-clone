@@ -6,6 +6,7 @@
 - React
 - Tailwind CSS
 - Typescript
+- Next Js
 - Biblioteca de icons
 
 ## Projeto
